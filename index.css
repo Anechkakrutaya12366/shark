@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    background-color: palevioletred;
+    width: 600px;
+}
+h1 {
+    text-align: center;
+}
+main img {
+     text-align: center;
+}
+header a {
+    text-decoration: none;
+    border: 10px solid yellow;
+    background-color: greenyellow;
+    padding: 15px;
+    border-radius: 15px;
+    
+}
+
+header {
+    margin-top: 20px;
+}
+header img {
+    position: relative;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+a:hover {
+background-color: aquamarine;
+color:red;
+padding: 20px;
+}
+li {
+color:blue;
+background-color: bisque;
+}
+p {
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
